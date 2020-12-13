@@ -13,6 +13,9 @@ variableを使用してインスタンスタイプ等を選択できるように
 
 # 参考
 ・[HashiCorpTerraform|Registry](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+
 ・[Pragmatic Terraform on AWS サンプルコード](https://github.com/tmknom/example-pragmatic-terraform-on-aws)
+
 ・[実践Terraform](https://www.amazon.co.jp/dp/B07XT7LJLC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
 ・[Developers.IO](https://dev.classmethod.jp/articles/terraform-getting-started-with-aws/)
