@@ -1,10 +1,10 @@
 # 概要
 Terraformを学習しました。
-CloudFormationで作成したメモアプリ用の環境と同じものをTerrasormで作成したものです。
+CloudFormationで作成したメモアプリ用の環境と同じものをTerraformで作成したものです。
 Terraform Version 0.14.2
 
 # 構成
-・東京リージョンで単一VPC作成しました。構成図は下記にあります。
+・東京リージョンで単一VPCを作成しました。構成図は下記にあります。
 
 # 環境
 ・Amazon Linux 2 (ami-00f045aed21a55240)
